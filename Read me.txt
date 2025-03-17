@@ -1,0 +1,10 @@
+YouTube Video Downloader :
+1 . download VS Code and python 3.11
+2 . install "pip install yt-dlp" on output (terminal)
+3 . Exact the ffpeg "ffmpeg-2024-08-21-git-9d15fe77e3-full_buildzip.7z"
+3 . path "ffpeg.bin" in system environment and run " ffmpeg -version"  Command prompt
+4 . then run code 
+5 . you can download by copying URL paste in Entry
+6 . Enjoy ;)
+
+by CHHAY Lyveng
