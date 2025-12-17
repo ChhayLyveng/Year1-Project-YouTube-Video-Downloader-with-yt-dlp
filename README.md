@@ -1,4 +1,4 @@
-# $A simple YouTube video downloader built with Python, yt-dlp, and FFmpeg.$
+# "A simple YouTube video downloader built with Python, yt-dlp, and FFmpeg.$
 
 ## $Requirements$
 
