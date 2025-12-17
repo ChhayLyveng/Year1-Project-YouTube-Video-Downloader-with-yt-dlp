@@ -9,7 +9,7 @@
 
 ### 1. Install VS Code and Python
 
-Download and install:
+  Download and install:
 
 - Visual Studio Code
 - Python 3.11
