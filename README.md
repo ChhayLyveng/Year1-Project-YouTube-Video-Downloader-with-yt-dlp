@@ -16,7 +16,7 @@
 
 Make sure Python is added to PATH during installation.
 
-2. Install yt-dlp
+### 2. Install yt-dlp
 
 Open Terminal (or Command Prompt) and run:
 
@@ -24,7 +24,7 @@ Open Terminal (or Command Prompt) and run:
   pip install yt-dlp
   ```
 
-3. Install FFmpeg
+### 3. Install FFmpeg
 
   1. Download FFmpeg
   ```python
