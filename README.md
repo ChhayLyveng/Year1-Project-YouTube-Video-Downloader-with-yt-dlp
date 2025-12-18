@@ -26,12 +26,12 @@ Open Terminal (or Command Prompt) and run:
 
 3. Install FFmpeg
 
-  1 Download FFmpeg
+  1. Download FFmpeg
   ```python
   ffmpeg-2024-08-21-git-9d15fe77e3-full_build.zip
   ```
-  2 ffmpeg-2024-08-21-git-9d15fe77e3-full_build.zip
-  3 Extract the file.
+  2. ffmpeg-2024-08-21-git-9d15fe77e3-full_build.zip
+  3. Extract the file.
 
 Add the ffmpeg/bin folder to your System Environment PATH.
 
