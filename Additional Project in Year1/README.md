@@ -11,5 +11,5 @@ A classic Rock, Paper, Scissors game implemented with a graphical user interface
 
 ## Requirements
 
-- Python 3.x
+- Python 
 - Tkinter: Usually comes pre-installed with Python.
